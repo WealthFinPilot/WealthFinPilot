@@ -141,7 +141,7 @@ Dashboard and visualisations
   </tr>
   </tr>
          <td><img src="docs/dashboard-full.png" alt="Data Entry" width="400"><br><sub>Main Dashboard with 2 independents yealry budgets</sub></td>
-    <td><img src="docs/budgetize-budget-modes.png" alt="FIRE Planning" width="400"><br><sub>An actionnable yearly budget</sub></td>
+    <td><img src="docs/dashboard-budget-control.png" alt="FIRE Planning" width="400"><br><sub>An actionnable yearly budget</sub></td>
   </tr>
 </table>
 
