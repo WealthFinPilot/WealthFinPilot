@@ -6,6 +6,8 @@
 ![Stack](https://img.shields.io/badge/stack-Excel%20%2F%20VBA-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+<img src="docs/dashboard-main.png" alt="WealthFinPilot Dashboard" width="100%">
+
 ---
 
 # Why this project exists
@@ -123,6 +125,21 @@ Dashboard and visualisations
 | Excel (Windows) | Interface, data structure, visualisations |
 | VBA | Business logic, automation, UserForms |
 | Power Query | Data import and transformation |
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="docs/data-entry.png" alt="Data Entry" width="400"><br><sub>Data Entry — transaction input via UserForm</sub></td>
+    <td><img src="docs/management-fire.png" alt="FIRE Planning" width="400"><br><sub>FIRE — long-term planning, 3 growth strategies</sub></td>
+  </tr>
+  <tr>
+    <td><img src="docs/settings-subcategories.png" alt="Settings" width="400"><br><sub>Settings — subcategory management</sub></td>
+    <td><img src="docs/budgetize-console.png" alt="Budgetize" width="400"><br><sub>Budgetize — budget adjustment console</sub></td>
+  </tr>
+</table>
 
 ---
 
