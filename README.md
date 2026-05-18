@@ -139,9 +139,9 @@ Dashboard and visualisations
     <td><img src="docs/settings-subcategories.png" alt="Settings" width="400"><br><sub>Settings — subcategory management</sub></td>
     <td><img src="docs/budgetize-console.png" alt="Budgetize" width="400"><br><sub>Budgetize — budget adjustment console</sub></td>
   </tr>
-  </tr>
-         <td><img src="docs/dashboard-full.png" alt="Data Entry" width="400"><br><sub>Main Dashboard with 2 independents yealry budgets</sub></td>
-    <td><img src="docs/dashboard-budget-control.png" alt="FIRE Planning" width="400"><br><sub>An actionnable yearly budget</sub></td>
+  <tr>
+    <td><img src="docs/dashboard-full.png" alt="Full Dashboard" width="400"><br><sub>Main Dashboard with 2 independent yearly budgets</sub></td>
+    <td><img src="docs/dashboard-budget-control.png" alt="Budget Control" width="400"><br><sub>An actionable yearly budget</sub></td>
   </tr>
 </table>
 
