@@ -1,4 +1,4 @@
-# WealthFinPilot
+# WealthFinPilot Project / Financial Dashboard
 
 **Personal finance management tool — Excel / VBA**
 
