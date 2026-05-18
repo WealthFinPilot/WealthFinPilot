@@ -1,0 +1,8 @@
+# Excel temporary files
+~$*.xls
+~$*.xlsx
+~$*.xlsm
+
+# Windows
+Thumbs.db
+desktop.ini

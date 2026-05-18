@@ -176,7 +176,18 @@ wealthfinpilot/
 - Microsoft Excel 365 (Windows) with macros enabled
 - Mac compatibility: not verified
 
-> A step-by-step setup guide and demo file are not yet available in this repository.
+---
+
+## Getting started
+
+1. **Download** `WealthFinPilot_v3.0.xlsm` and open it in Excel
+2. **Enable macros** when prompted — all functionality depends on VBA
+3. **Settings** → configure your expense and income categories and subcategories to match your spending habits
+4. **Data Entry** → enter your first transactions manually, or use **Automation** to import a bank CSV export
+5. **Budgetize** → build your annual budget once enough transaction data is in place
+6. The **Dashboard** updates automatically as data is entered
+
+> The demo videos linked below cover each module in detail.
 
 ---
 
