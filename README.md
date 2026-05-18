@@ -12,7 +12,7 @@
 
 # Why this project exists
 
-At a point in my life where I needed to plan ahead. — I asked myself a simple question: *why not apply the same analytical rigour I use at work to my personal finances?*
+At a point in my life where I needed to plan ahead — I asked myself a simple question: *why not apply the same analytical rigour I use at work to my personal finances?*
 
 WealthFinPilot started as a personal challenge. It became something more: the project where I learned to think like a data person, structure complex information, design for usability, and build something that actually gets used — by me, every month.
 
