@@ -10,6 +10,18 @@
 
 ---
 
+## Demo videos ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
+
+🎥 **Watch WealthFinPilot in action: a complete personal finance system**
+
+- #1 ▶️ [Dashboard overview and navigation](https://youtu.be/nTWMh1e4jyk?si=sRZnfef-LQMsTBdW)
+- #2 ▶️ [Settings — category personalisation](https://youtu.be/6Szk2CZGKi8?si=WFZgW6bQPxG6PRXE)
+- #3 ▶️ [Automation — bank import and categorisation](https://youtu.be/oVEUhhg7ReM?si=Dd4NQwhqB-EjtVJB)
+- #4 ▶️ [FIRE — long-term financial planning](https://youtu.be/ehYVkPfbrTc?si=YeQEJZ6kY1k4M6UK)
+- #5 ▶️ [Budgetize — budget management and KPIs](https://youtu.be/-tL8nu7FVmA?si=OMG6UFCnp1Fj0PNf)
+
+---
+
 # Why this project exists
 
 At a point in my life where I needed to plan ahead — I asked myself a simple question: *why not apply the same analytical rigour I use at work to my personal finances?*
@@ -144,18 +156,6 @@ Dashboard and visualisations
     <td><img src="docs/dashboard-budget-control.png" alt="Budget Control" width="400"><br><sub>An actionable yearly budget</sub></td>
   </tr>
 </table>
-
----
-
-## Demo videos
-
-| # | Topic | Link |
-|---|---|---|
-| 1 | Dashboard overview and navigation | [YouTube](https://youtu.be/nTWMh1e4jyk?si=sRZnfef-LQMsTBdW) |
-| 2 | Settings — category personalisation | [YouTube](https://youtu.be/6Szk2CZGKi8?si=WFZgW6bQPxG6PRXE) |
-| 3 | Automation — bank import and categorisation | [YouTube](https://youtu.be/oVEUhhg7ReM?si=Dd4NQwhqB-EjtVJB) |
-| 4 | FIRE — long-term financial planning | [YouTube](https://youtu.be/ehYVkPfbrTc?si=YeQEJZ6kY1k4M6UK) |
-| 5 | Budgetize — budget management and KPIs | [YouTube](https://youtu.be/-tL8nu7FVmA?si=OMG6UFCnp1Fj0PNf) |
 
 ---
 
