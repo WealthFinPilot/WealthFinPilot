@@ -6,6 +6,18 @@ Who am I ?
 **Quality Assurance Manager ISO/IEC 17025 → Data Analyst** 
 Montréal, Québec, Canada · Ouvert aux opportunités
 
+[![ISO/IEC 17025](https://img.shields.io/badge/ISO%2FIEC-17025-0A66C2)](#)
+[![Stack](https://img.shields.io/badge/stack-Excel%20%2F%20VBA%20%2F%20SQL-blue)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](#)
+[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
+
 ---
 
 ## À propos
