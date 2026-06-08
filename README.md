@@ -41,7 +41,7 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
 
 | Projet | Description | Stack |
 |---|---|---|
-| [WealthFinPilot](https://github.com/WealthFinPilot/WealthFinPilot) | Outil de finance personnelle complet — budget, suivi, objectifs, automatisation | Excel · VBA |
+| [Financial-management-tool](https://github.com/WealthFinPilot/Financial-management-tool) | Outil de finance personnelle complet — budget, suivi, objectifs, automatisation | Excel · VBA |
 | [notion-qms-platform](https://github.com/WealthFinPilot/notion-qms-platform/blob/main/README.md) | Plateforme fonctionnelle de Gestion de Système Qualité structurée sous Notion et optimisée avec n8n, pour laboratoire d'essais accrédité ISO/IEC 17025| Notion · n8n |
 | [excel-business-tools](https://github.com/Sebastien/excel-business-tools) | Solutions métier développées en contexte réel | Excel · VBA · Power Query |
 
