@@ -1,6 +1,3 @@
-[Sebastien.md](https://github.com/user-attachments/files/27925704/Sebastien.md)
-# Sebastien
-Who am I ?
 # Sébastien
 
 **Quality Assurance Manager ISO/IEC 17025 → Data Analyst** 
@@ -39,19 +36,56 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
 
 ## Projets
 
-| Projet | Description | Stack |
-|---|---|---|
-| [Financial-management-tool](https://github.com/WealthFinPilot/Financial-management-tool) | Outil de finance personnelle complet — budget, suivi, objectifs, automatisation | Excel · VBA |
-| [notion-qms-platform](https://github.com/WealthFinPilot/notion-qms-platform/blob/main/README.md) | Plateforme fonctionnelle de Gestion de Système Qualité structurée sous Notion et optimisée avec n8n, pour laboratoire d'essais accrédité ISO/IEC 17025| Notion · n8n |
-| [excel-business-tools](https://github.com/Sebastien/excel-business-tools) | Solutions métier développées en contexte réel | Excel · VBA · Power Query |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/WealthFinPilot/Financial-management-tool">
+        <img src="./Vignette/Financial-Tool.png" alt="Financial-management-tool" width="380"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/WealthFinPilot/Financial-management-tool">Financial-management-tool</a></strong>
+      <br/>
+      Outil de finance personnelle complet (Excel · VBA) — budget, suivi des dépenses, objectifs et automatisation.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/WealthFinPilot/Quality-management-system-platform">
+        <img src="./Vignette/Quality-management-system-platform.png" alt="notion-qms-platform" width="380"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/WealthFinPilot/Quality-management-system-platform">Quality-management-system-platform</a></strong>
+      <br/>
+      Plateforme de Système Qualité sous Notion + n8n, pour laboratoire d'essais accrédité ISO/IEC 17025.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/WealthFinPilot/Materials-explorer">
+        <img src="./Vignette/Materials-explorer.png" alt="material-selector" width="380"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/WealthFinPilot/Materials-explorer">Materials-explorer</a></strong>
+      <br/>
+      Outil web de sélection d'acier par critères métallurgiques — scoring par similarité pondérée, déployé sur Netlify.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/WealthFinPilot/Quality-Control-by-Data">
+        <img src="./Vignette/Quality-Control-By-Data.png" alt="spectrometer-qc-dashboard" width="380"/>
+      </a>
+      <br/>
+      <strong><a href="https://github.com/WealthFinPilot/Quality-Control-by-Data">Quality-Control-by-Data</a></strong>
+      <br/>
+      Dashboard de contrôle qualité pour spectromètre de masse — cartes de contrôle (z-scores, ±2σ/±3σ), détection de dérive instrumentale.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Certifications
 
-- 🏅 **Microsoft Power BI Data Analyst** — Coursera (Microsoft)
-- 🏅 **SQL & SQL Advanced with Python for Data Science** — Coursera (IBM)
-- 🎯 En cours : **PL-300** (Microsoft Power BI) · **DP-900** (Azure Data Fundamentals)
+- 🎯 **En cours — certifications Microsoft : [PL-300](https://learn.microsoft.com/credentials/certifications/data-analyst-associate/) (Power BI Data Analyst) · [DP-900](https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals/) (Azure Data Fundamentals)**
+- 🏅 **Microsoft Power BI Data Analyst** — Coursera (Microsoft) · [Voir le certificat](./Certificats/MicrosoftPowerBIDataAnalystProfessionalCertificate.pdf)
+- 🏅 **SQL & SQL Advanced with Python for Data Science** — Coursera (IBM) · [Voir le certificat](./Certificats/IBM-Database-and-SQL-for-data-Science-with-Python.pdf)
 
 ---
 
