@@ -45,7 +45,10 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
       <br/>
       <strong><a href="https://github.com/WealthFinPilot/Financial-management-tool">Financial-management-tool</a></strong>
       <br/>
+        <br/>
       Outil de finance personnelle complet (Excel · VBA) — budget, suivi des dépenses, objectifs et automatisation.
+        <br/>
+       <br/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/WealthFinPilot/Quality-management-system-platform">
@@ -54,7 +57,10 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
       <br/>
       <strong><a href="https://github.com/WealthFinPilot/Quality-management-system-platform">Quality-management-system-platform</a></strong>
       <br/>
-      Plateforme de Système Qualité sous Notion + n8n, pour laboratoire d'essais accrédité ISO/IEC 17025.
+        <br/>
+      Plateforme de Système Qualité avec Notion + n8n, pour laboratoire industriel accrédité ISO/IEC 17025.
+        <br/>
+       <br/>
     </td>
   </tr>
   <tr>
@@ -65,7 +71,10 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
       <br/>
       <strong><a href="https://github.com/WealthFinPilot/Materials-explorer">Materials-explorer</a></strong>
       <br/>
-      Outil web de sélection d'acier par critères métallurgiques — scoring par similarité pondérée, déployé sur Netlify.
+        <br/>
+      Un outil qui automatise l'identification et la vérification de conformité des matériaux, classés par score de confiance.
+        <br/>
+       <br/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/WealthFinPilot/Quality-Control-by-Data">
@@ -74,7 +83,10 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
       <br/>
       <strong><a href="https://github.com/WealthFinPilot/Quality-Control-by-Data">Quality-Control-by-Data</a></strong>
       <br/>
-      Dashboard de contrôle qualité pour spectromètre de masse — cartes de contrôle (z-scores, ±2σ/±3σ), détection de dérive instrumentale.
+        <br/>
+      Surveiller, détecter, corriger — maîtriser la dérive d'un équipement d'analyse de précision dans le temps.
+        <br/>
+       <br/>
     </td>
   </tr>
 </table>
