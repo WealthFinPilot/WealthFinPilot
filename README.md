@@ -80,7 +80,6 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
       <a href="https://github.com/WealthFinPilot/Quality-Control-by-Data">
         <img src="./Vignette/Quality-Control-By-Data.png" alt="spectrometer-qc-dashboard" width="380"/>
       </a>
-      <br/>
       <strong><a href="https://github.com/WealthFinPilot/Quality-Control-by-Data">Quality-Control-by-Data</a></strong>
       <br/>
         <br/>
