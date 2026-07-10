@@ -94,7 +94,8 @@ Mes projets ne sont pas des exercices sur des données fictives. Ils résolvent 
 
 ## Certifications
 
-- 🎯 **En cours — certifications Microsoft : [PL-300](https://learn.microsoft.com/credentials/certifications/data-analyst-associate/) (Power BI Data Analyst) · [DP-900](https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals/) (Azure Data Fundamentals)**
+- 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — Microsoft · Obtenue le 16 juin 2026 · [Vérifier le certificat](https://learn.microsoft.com/api/credentials/share/en-us/Sbastien-2434/6C8AE8593C66DBE6?sharingId=C8B1AEFFEC3D7E35)
+- 🎯 **En cours — certification Microsoft : [DP-900](https://learn.microsoft.com/credentials/certifications/azure-data-fundamentals/) (Azure Data Fundamentals)**
 - 🏅 **Microsoft Power BI Data Analyst** — Coursera (Microsoft) · [Voir le certificat](./Certificats/MicrosoftPowerBIDataAnalystProfessionalCertificate.pdf)
 - 🏅 **SQL & SQL Advanced with Python for Data Science** — Coursera (IBM) · [Voir le certificat](./Certificats/IBM-Database-and-SQL-for-data-Science-with-Python.pdf)
 
