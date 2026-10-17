@@ -4,7 +4,7 @@
 
 </div>
 
-<p align="right">
+<p align="left">
   <strong>Qualité, processus, données.</strong><br/>
   Dix ans en laboratoire accrédité ISO/IEC 17025, aujourd'hui au croisement de l'analyse de données, de l'automatisation et de la conception de solutions métier.<br/>
   Montréal, Québec · Ouvert aux opportunités
@@ -31,21 +31,22 @@
 
 ## Stack
 
-[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)](#)
-[![DAX](https://custom-icon-badges.demolab.com/badge/DAX-F2C811?logo=dax&logoColor=black)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-B8860B?logo=power-bi)](#)
+[![DAX](https://custom-icon-badges.demolab.com/badge/DAX-B8860B?logo=dax)](#)
 [![Power Query](https://custom-icon-badges.demolab.com/badge/Power%20Query-217346?logo=powerquery&logoColor=white)](#)
 [![Excel](https://custom-icon-badges.demolab.com/badge/Excel-217346?logo=microsoft-excel&logoColor=white)](#)
 [![VBA](https://custom-icon-badges.demolab.com/badge/VBA-217346?logo=vba&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![dbt](https://custom-icon-badges.demolab.com/badge/dbt-262A38?logo=dbt)](#)
 [![Power Platform](https://custom-icon-badges.demolab.com/badge/Power%20Platform-742774?logo=powerplatform&logoColor=white)](#)
 [![Power Apps](https://custom-icon-badges.demolab.com/badge/Power%20Apps-742774?logo=power-apps&logoColor=white)](#)
 [![Power Automate](https://custom-icon-badges.demolab.com/badge/Power%20Automate-0066FF?logo=power-automate&logoColor=white)](#)
 [![SharePoint](https://custom-icon-badges.demolab.com/badge/SharePoint-0078D4?logo=sharepoint&logoColor=white)](#)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)](#)
-[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)](#)
-[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=FFD02F)](#)
+[![Notion](https://img.shields.io/badge/Notion-6B6B6B?logo=notion&logoColor=white)](#)
+[![Miro](https://img.shields.io/badge/Miro-4262FF?logo=miro&logoColor=FFD02F)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078D7?logo=visualstudiocode&logoColor=white)](#)
 [![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?logo=anthropic&logoColor=white)](#)
 [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74AA9C?logo=openai&logoColor=white)](#)
@@ -99,11 +100,3 @@ Au fil de dix ans en environnement ISO/IEC 17025, dont six à piloter le systèm
     </td>
   </tr>
 </table>
-
----
-
-<div align="center">
-
-**[sebastienoger.ca](https://sebastienoger.ca/)** · [LinkedIn](https://www.linkedin.com/in/s%C3%A9bastien-oger-49009382) · [Me contacter](https://sebastienoger.ca/contact) · [Obtenir un CV](https://sebastienoger.ca/cv)
-
-</div>
